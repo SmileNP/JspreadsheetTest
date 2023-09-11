@@ -1,0 +1,17 @@
+{
+  "name": "jspreadhseettest",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^4.4.5"
+  },
+  "dependencies": {
+    "jspreadsheet-ce": "^4.13.4"
+  }
+}
